@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fa;
+}
+
+.dashboard {
+  max-width: 1100px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.patient-info {
+  margin-bottom: 2rem;
+}
+
+.vitals {
+  display: flex;
+  gap: 2rem;
+}
+
+.vital {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  flex: 1;
+}
